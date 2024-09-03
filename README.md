@@ -1,2 +1,3 @@
 # DSA-JS-
-solution to leetcode problems implemented in javascript
+This repository contains contains solution to LeetCode problems implemented using Javascript.
+
